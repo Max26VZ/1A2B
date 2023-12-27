@@ -32,12 +32,12 @@ int main() {
     string secretCode = generateSecretCode();
     int attempts = 0;
 
-    cout << "歡迎來到英文字母版1A2B遊戲！" << endl;
+    cout << "歡迎來到英文字母版1A2B遊戲！請使用大寫字母" << endl;
 
     do {
         // 接收玩家輸入
         string userGuess;
-        cout << "請猜測四個不重複的英文字母：";
+        cout << "請猜測四個不重複的大寫英文字母：";
         cin >> userGuess;
 
         // 檢查輸入合法性
