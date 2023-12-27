@@ -1,4 +1,4 @@
-//Max-12/11
+//«¸¶QÂ×-12/11
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
